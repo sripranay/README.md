@@ -30,23 +30,23 @@
 
 ## 📂 Projects  
 
-- **[📊 Financial Analysis RAG with Time-Series Data](https://github.com/sripranay/Finance-RAG)**  
+- **📊 Financial Analysis RAG with Time-Series Data**  
   _NLP | RAG | Time-Series Analytics | Streamlit | ChromaDB_  
   - Built a **RAG app** with vector search + interactive financial charts  
   - Designed **yfinance pipeline**, normalized OHLCV, stored 580+ facts in ChromaDB  
   - Deployed on **Streamlit Cloud** with SMA overlays & reproducible setup  
 
-- **[✍️ OCR Handwriting Recognition using TrOCR](https://github.com/sripranay/OCR-Handwriting-Recognition)**  
+- **✍️ OCR Handwriting Recognition using TrOCR**  
   _Python | Hugging Face | PyTorch_  
   - Fine-tuned TrOCR on IAM dataset → **6.3% CER, 14.3% WER**  
   - Built OCR pipeline with preprocessing, tokenization & transformers  
 
-- **[🚗 AutoScout24 Car Price Prediction](https://github.com/sripranay/Car-Price-Prediction)**  
+- **🚗 AutoScout24 Car Price Prediction**  
   _EDA | Python | Scikit-learn_  
   - Processed **15K+ car listings**, engineered features, handled outliers  
   - Achieved **0.896 R²** with Ridge/Lasso + hyperparameter tuning  
 
-- **[🍔 EDA on Swiggy Dataset](https://github.com/sripranay/Swiggy-EDA)**  
+- **🍔 EDA on Swiggy Dataset**  
   _EDA | Python | Plotly | Seaborn_  
   - Analyzed **3K+ records** to uncover top categories & peak order times  
   - Built **5+ visualizations** & predictive models (70% accuracy)  
@@ -92,11 +92,11 @@ Lovely Professional University, Punjab (2022 – Present)
 ## 🌐 Connect With Me  
 
 - [LinkedIn](https://www.linkedin.com/in/sripranay31/)  
-- [GitHub](https://github.com/sripranay)  
 - [LeetCode](https://leetcode.com/u/SriPranay/)  
 - [Hugging Face](https://huggingface.co/sripranay)  
 - 📧 [Email](mailto:sripranay004@gmail.com)  
 
 ---
 ⭐ From [SriPranay](https://github.com/sripranay)
+
 
